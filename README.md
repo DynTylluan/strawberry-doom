@@ -3,10 +3,10 @@
 
 **[Strawberry Doom](https://www.chocolate-doom.org/wiki/index.php/Strawberry_Doom)** is a fork of the Chocolate Doom codebase that extends some of the limits of Chocolate Doom to match some of those of [PrDoom+](https://doomwiki.org/wiki/PrBoom%2B), as well as adding features such as playable bots, despite of this, the port now seems to be defunct, as it was last updated in March of 2008 and _never actually_ saw an official release by the head developer, [GhostlyDeath](https://doomwiki.org/wiki/RestlessRodent) (who is now known as RestlessRodent), only playable demos were released via the project's [SourceForge page](https://sourceforge.net/projects/doomsvnbuilds/files/Strawberry%20Doom/), that this is a mirror of.
 
-It featured extended limits as per Doom plus, in-game multiplayer scoreboard which also shows player health and armor information, enhanced and color contextualized automap (which was also copied into [ReMooD](https://doomwiki.org/wiki/ReMooD), a port that GhostlyDeath would soon work on a few months later), primitive bots with primitive navigation for any level, and [deathmatch team support](https://www.chocolate-doom.org/wiki/index.php/Multiplayer). 
+It featured extended limits as per Doom plus, an in-game multiplayer scoreboard which also shows player health and armor information, enhanced and color contextualized automap (which was also copied into [ReMooD](https://doomwiki.org/wiki/ReMooD), a port that GhostlyDeath would soon work on a few months later), primitive bots with primitive navigation for any level, and [deathmatch team support](https://www.chocolate-doom.org/wiki/index.php/Multiplayer). 
 
 ## Versions in this repository
-This repository is made-up of all of the known versions of the port that have been published to-date. In total, 21 of the published versions do not have any type of README file attached and 3 versions have READMEs that are simply just the dash (-) 73 times, effectively making the help files useless to even look at.
+This repository is made up of all of the known versions of the port that have been published to date. In total, 21 of the published versions do not have any type of README file attached and 3 versions have READMEs that are simply just the dash (-) 73 times, effectively making the help files useless to even look at.
 
 > **Strawberry Doom version r1020 (strawberry-doom-r1020-win32)**
 
@@ -173,10 +173,10 @@ copy /y "%USERPROFILE%\.strawberry-doom\*.cfg" "*.cfg" > nul 2>&1
 ```
 
 # Disclaimer Regarding This Project
-Just because I have mirrored a project by another person, this **does not mean** in anyway, shape, or form that I agree or support the views of this project or even the person who made it, I have simply mirrored it for historical reasons as I have an interest in digital preservation. Over the years I have taken the time in archiving many items, much of which can be seen [on my Internet Archive user page](https://archive.org/details/@14jammar). Following this, just because I have mirrored a project, this also does not mean that the author endorses me or my work.
+Just because I have mirrored a project by another person, this **does not mean** in any way, shape, or form that I agree or support the views of this project or even the person who made it, I have simply mirrored it for historical reasons as I have an interest in digital preservation. Over the years I have taken the time to archive many items, much of which can be seen [on my Internet Archive user page](https://archive.org/details/@14jammar). Following this, just because I have mirrored a project, this also does not mean that the author endorses me or my work.
 
-If you are reading this and are wondering why exactly [that this disclaimer](https://github.com/DynTylluan/disclaimer) is inside of this project, it is simply here as a blanket way for getting out of trouble if myself or the project owner gets into hot water in some way, just in case. This is a standard document that is in all of [my GitHub](https://github.com/DynTylluan/) mirrors and _does not automatically_ mean that the project owner is a bad person or to be untrusted.
+If you are reading this and are wondering why exactly [that this disclaimer](https://github.com/DynTylluan/disclaimer) is inside of this project, it is simply here as a blanket way for getting out of trouble if myself or the project owner gets into hot water in some way, just in case. This is a standard text that is in all of [my GitHub](https://github.com/DynTylluan) mirrors and _does not automatically_ mean that the project owner is a bad person or is untrustworthy.
 
-You are welcome to delete this file, as it will not affect the main part of the project in anyway.
+You are welcome to delete this file, as it will not affect the main part of the project in any way.
 
-> Cass Python of [owlman.neocities.org](https://owlman.neocities.org)
+> Cass Python of [OwlyFans](https://owly.fans)
